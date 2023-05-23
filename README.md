@@ -28,7 +28,7 @@ This Project is created to serve as a connector between Azure Translate and a Cl
   - [ ] [Example Response](#example-response) 
 
 
-## Text translation features
+## Features
 
 The following methods are supported by the Text Translation feature:
 
