@@ -86,7 +86,7 @@ Set-Variable -Name "SECRET" -Value "<SECRET>" -Scope "User"
 
 ### Endpoints
 ---
-<a href="http://findasnake.com">![](https://img.shields.io/badge/Endpoints-REST-yellow)
+
 </a>
 
 
@@ -106,7 +106,6 @@ Set-Variable -Name "SECRET" -Value "<SECRET>" -Scope "User"
 
 ### Using the API (Example)
 ---
-<a href="http://findasnake.com">![](https://img.shields.io/badge/UsingTheAPI-EXAMPLE-geem)</a>
 
 The API can be used by sending a POST request to the endpoint. The request body should be in JSON format and should contain the following fields:
 - [ ] `text`: The text to be translated
@@ -139,7 +138,6 @@ The API can be used by sending a POST request to the endpoint. The request body 
 
 ## Q&A
 ---
-<a href="http://findasnake.com">![](https://img.shields.io/badge/Q&A-FAQs-yellowgreen)</a>
 
 ### How do I get an API Key?
 - [ ] [Create a Cognitive Services resource in the Azure portal](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account?tabs=multiservice%2Cwindows)
